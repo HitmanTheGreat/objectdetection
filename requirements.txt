@@ -1,11 +1,8 @@
-pip
 opencv-python
 keras
-matplotli
 numpy
 opencv_python
 Pillow
-seaborn
 streamlit
 tensorflow
 tensorflow_gpu
